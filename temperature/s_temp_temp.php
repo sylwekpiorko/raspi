@@ -3,8 +3,8 @@
 ini_set('error_reporting', E_ALL|E_STRICT);
 ini_set('display_errors', 1);
 
-	$username = "root";
-	$password = "5YdjLTFLQcT8Meqw";
+	$username = "pi_select";
+	$password = "select01";
 	$host = "localhost";
 	$database = "measurements";
     
