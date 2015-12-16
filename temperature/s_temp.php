@@ -224,7 +224,7 @@ svg.append("g")
     .attr("text-anchor", "middle")
     .attr("font-size", "25px")
     //.style("text-decoration", "underline")
-    .text("TEST: temperature measurements in order to control the heating - Drogheda (S.P.)");
+    .text("TEST: Temperatures measurements in order to control the heating in Drogheda (S.P.)");
 
 </script>
 </body>
